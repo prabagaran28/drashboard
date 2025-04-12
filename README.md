@@ -7,3 +7,12 @@ learn c programming
 3. assembleing 
 4. linking 
 
+```c
+#include<stdio.h>
+int main()
+{
+
+printf("hello world");
+    return 0;
+}
+```
