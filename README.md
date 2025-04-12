@@ -15,4 +15,11 @@ int main()
 printf("hello world");
     return 0;
 }
-```
+``` 
+
+----------- ---------
+| Month    | Savings |
+| :--------: | :-------: |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
